@@ -2,16 +2,14 @@
 
 🔧 Kỹ thuật điện công nghiệp  
 🧵 Làm việc trong ngành sợi  
-🤖 Chuyên về PLC Mitsubishi, Servo & Automation  
+🤖 Chuyên về PLC Mitsubishi, các thiết bị điện công nghiệp trong ngành sợi
 🌐 Tìm hiểu Blockchain & công nghệ mới  
 
 ---
 
 ## 🛠 Kỹ năng & Chuyên môn
 
-- PLC Mitsubishi (lập trình, chẩn đoán lỗi, backup chương trình)
-- Servo công nghiệp
-- Automation Studio
+- PLC Mitsubishi (lập trình, chẩn đoán lỗi, backup chương trình 
 - Hệ thống điện 3 pha công nghiệp
 - Bảo trì & xử lý sự cố máy móc ngành sợi
 

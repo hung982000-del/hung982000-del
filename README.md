@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Hùng Đoàn
 
-<!--
-**hung982000-del/hung982000-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Kỹ thuật điện công nghiệp  
+🧵 Làm việc trong ngành sợi  
+🤖 Chuyên về PLC Mitsubishi, Servo & Automation  
+🌐 Tìm hiểu Blockchain & công nghệ mới  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Kỹ năng & Chuyên môn
+
+- PLC Mitsubishi (lập trình, chẩn đoán lỗi, backup chương trình)
+- Servo công nghiệp
+- Automation Studio
+- Hệ thống điện 3 pha công nghiệp
+- Bảo trì & xử lý sự cố máy móc ngành sợi
+
+---
+
+## 🚀 Mục tiêu
+
+Không ngừng học hỏi và nâng cao tay nghề kỹ thuật  
+Trau dồi kinh nghiệm thực tế trong lĩnh vực điện – tự động hóa  
+Tiếp cận công nghệ mới để phát triển bản thân bền vững và lâu dài
+
+---
+
+💡 Luôn sẵn sàng học hỏi, chia sẻ và phát triển cùng cộng đồng kỹ thuật.
